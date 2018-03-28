@@ -2,7 +2,8 @@
 
 **Prevent Facebook from tracking your visits to other websites**
 
-Facebook Container is an add-on you can install on Firefox to prevent Facebook from tracking your activity on other websites, so you can continue to use Facebook while protecting your privacy.
+Facebook Container is an add-on you can install on 
+to prevent Facebook from tracking your activity on other websites, so you can continue to use Facebook while protecting your privacy.This is a port from the orginal for Firefox and will work With Opera and it may even work with Chrome. 
 
 **Note:** To learn more about Containers in general, see [Firefox Multi-Account Containers](https://support.mozilla.org/kb/containers).
 
@@ -16,9 +17,9 @@ Every time you visit Facebook, it will open in its own container, separate from 
 
 We’ve made it easy to take steps to protect your privacy so you can go on with your day.
 
-1. [Install Facebook Container](https://addons.mozilla.org/firefox/addon/facebook-container/). This will log you out of Facebook and delete the cookies it’s been using to track you.
-2. Open Facebook and use it like you normally would.  Firefox will automatically switch to the Facebook Container tab for you.
-3. If you click on a link to a page outside of Facebook or type in another website in the address bar, Firefox will load them outside of the Facebook Container
+1. [Install Facebook-Container for Opera](You can currently only do this in the develop mode). This will log you out of Facebook and delete the cookies it’s been using to track you.
+2. Open Facebook and use it like you normally would.  Opera will automatically switch to the Facebook Container tab for you.
+3. If you click on a link to a page outside of Facebook or type in another website in the address bar, Opera will load them outside of the Facebook Container
 
 ## How does this affect Facebook’s features?
 
